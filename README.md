@@ -22,3 +22,7 @@ Creates a second, independent tidy data set with the average of each variable fo
 Good luck!
 
 #Contents
+
+run_analysis.R: downloads the required files and creates two files (mean_and_std.csv and tidy_dataset.csv)
+
+CodeBook.md: describes the variables, the data, and all transformations and work performed to clean up the data
